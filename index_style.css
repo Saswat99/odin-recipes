@@ -1,0 +1,19 @@
+body
+{
+background-image: url("https://png.pngtree.com/background/20210709/original/pngtree-cooking-creative-synthesis-stir-fry-picture-image_947636.jpg");
+}
+h1
+{
+    text-align: center;
+    color: cornflowerblue;
+}
+#lasagna,#tamagoyaki,#potato
+{
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+text-align: center;
+}
+a
+{
+    color: teal;
+}
